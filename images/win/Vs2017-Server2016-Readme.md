@@ -16,6 +16,7 @@ _Environment:_
 _Version:_ 17.06.2-ee-16<br/>
 _Environment:_
 * PATH: contains location of docker.exe
+* Windows Containers Only
 
 ## Docker-compose
 
